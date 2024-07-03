@@ -7,6 +7,7 @@ Features
 Double-Ended Queue: Supports efficient insertion and deletion of elements at both the front and back of the deque, making it highly versatile for various applications.
 Sentinel Node: Utilizes a sentinel node to simplify boundary conditions, eliminate null checks, and provide a consistent structure for deque operations.
 Java Implementation: Written in Java, this implementation leverages object-oriented principles for clean, maintainable, and easily integrable code.
+
 Implementation Details
 ---
 Sentinel Node
